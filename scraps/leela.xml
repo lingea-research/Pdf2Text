@@ -1,0 +1,195 @@
+<annot page="0" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>9d19d5d0-cc06-452b-a980-7a7497b07b9c</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>I have annotated each slide with comments that are roughly what I said when I presented this in person orally.Enjoy!Jim King (jking@adobe.com) 4/23/2013</text>
+</annot>
+<annot page="1" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>3d32e856-dd6c-49bf-832f-4b06fa874e70</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>This is the outline of what I plan to say.  I am really curious as to who the workshop attendees are and what part of world of open data they are working in.I then talk in general about PDF and it history (very briefly) and finally turn to the material reflected in the title of the presentation.</text>
+</annot>
+<annot page="2" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>09a93474-6bbb-4514-a518-357a42528015</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>The push for supplying open data has been primarily directed at government agencies. They supply nicely formatted rich presentations as well as the open raw data.  Part of the movement is to get them to supply the data that any rich presentations are based upon and more.I like to think of the standard definitions of “data” and “information” where the data is basically raw material collected and information is something more shaped to provide some knowledge or impressions.So this slide identifies two roles in my open data paradigm: the provider of data and information and the consumer of it.  I think of the consumer as any citizen who is interested in the information collected and disseminated by their governments.  This also applies to entities other than government agencies.</text>
+</annot>
+<annot page="3" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>0cdf1ceb-1a64-48bf-bcf8-2792488bded5</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>This slide introduces what I call “processors”, those people or organizations to take the open data and process it in some manner to add value or turn data into information.In my mind the ration of processors to consumers is 1 to 10000 or something like that.  Anyone who surf the web is a potential consumer but only a relatively small number of people want to analyse and make presentation from the open data provided.  Ultimately, at least on this slide, we show that the processors also create rich presentations to supply to the consumers.</text>
+</annot>
+<annot page="4" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>cb56508b-c1e8-4cbc-b72a-ce77474caac1</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>Of course, we still don’t know all the uses for which open data may be used. I have lumped these activities into advocacy since I suspect that that is and will be one of the big uses of open data. So I have introduced three roles in my open data paradigm: providers, consumers and processors.</text>
+</annot>
+<annot page="5" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>0bc9484d-82af-47a8-addf-115849a7e8ed</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>Of course, all of these people need tools to accomplish their objectives. And I think that the tools for this paradigm are far from mature and ideal. So I think tools is and important role in the picture.At the workshop people suggested that standards or to keep the terminology consistent, people who work on standards, represent another important role.  I think that is true.</text>
+</annot>
+<annot page="6" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>98ac1bd9-fde0-4a75-998d-c9d943b2e39e</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>I did a poll of the audience and it seemed that a lot of people raised their hands for each role.  I rated Providers at about 20% of the audience, Consumers at about 70%, Processor at maybe 60% and Tool providers (to my surprise) at about 70%.Did anyone else have better estimates.  This happened really quickly and what I wrote about might be way off.</text>
+</annot>
+<annot page="7" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>aa6cb1d2-d806-44a2-9098-03e4ca2dd2de</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>OK.  Just some basic level setting about PDF.  In June 2013 PDF will be 20 years old.  Adobe introduced PDF in 1993 as the file format supported by its Acrobat product line.  Based on some experience we had with PostScript being both a file format and a product, we decided with PDF to make a clear distinction between the file format (PDF) and the Adobe products that support it (Acrobat).We trademarked Acrobat but did not trademark PDF.  We published the full specification of PDF 1.0 in June 1993 in paperback form and wanted other to develop software to read, process and write PDF files.Through the years as function was added to Adobe’s Acrobat and its use of PDF we revised the PDF specification and published it each time.  So the 8th version (PDF 1.7) was published by Adobe in 2006.  In 2007 Adobe inked an agreement with AIIM and ISO to hand over control of PDF to ISO.  We had always gotten complaints that had total control over what new things went into each new version.  With ISO owning the specification, then the world would have control over the evolution not just Adobe.This picture is my attempt to depict that a file made to conform to PDF 1.0 or 1.4 also conforms to PDF 1.7.  We did not want to ever obsolete any existing PDF files.ISO published its first PDF standard ISO 32000-1 in July 2008.  (Yes, the public has “owned” the standard for almost 5 years.  ISO is now working on PDF 2.0 which should come out in a year or so. </text>
+</annot>
+<annot page="8" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>f24c998d-361a-4978-ad79-e8d838a91f4d</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>OK.  Finally we get to the material suggest by the title of the talk.We want to clearly distinguish between the two kinds of PDFs: existing, in the wild, PDFs and ones that are newly purpose built.</text>
+</annot>
+<annot page="9" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>1dd6e385-e7fa-4631-b2ad-3a3f9094fa94</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>There are billions of pre-existing PDFs that contain a tremendous amount of very valuable and interesting content.  Wouldn’t it be nice if a lot of that content could become open data. Well that is asking a lot since PDF was formulated 20 years ago as “Portable Document Format”.  It is not a data format.However, it is possible to extract the content from PDF files, but a lot of the software available to do this has its limitations.  Further there is often the stated requirement that such software must be open source software. I’m not sure I see where open data requires open software but I guess if you are an open kind of gal you want your software open, too.The most compact PDFs and the ones most amenable to harvesting data from are ones that have text as text, vector graphics as graphics and only those parts that must be images, be images.  If you create a PDF file by scanning paper pages then the simplest systems will produce PDFs where each page is a full page image.  If that is the case then to get text and text strings one has to apply some Optical Character Recognition (OCR) to the image.  I give the best references I could find for processing the different kinds of content found in PDFs.  I would take a lot of flake it I started telling you which software, besides Adobe’s, is the best for each job. ( Besides I really don’t know.)</text>
+</annot>
+<annot page="9" index="1" type="link">
+  <rect x1="190.183000" y1="279.035000" x2="599.863000" y2="301.355000"/>
+</annot>
+<annot page="9" index="2" type="link">
+  <rect x1="599.863000" y1="279.035000" x2="606.523000" y2="301.355000"/>
+</annot>
+<annot page="9" index="3" type="link">
+  <rect x1="606.523000" y1="279.035000" x2="670.903000" y2="301.355000"/>
+</annot>
+<annot page="9" index="4" type="link">
+  <rect x1="670.903000" y1="279.035000" x2="677.563000" y2="301.355000"/>
+</annot>
+<annot page="9" index="5" type="link">
+  <rect x1="677.563000" y1="279.035000" x2="717.463000" y2="301.355000"/>
+</annot>
+<annot page="9" index="6" type="link">
+  <rect x1="717.463000" y1="279.035000" x2="724.123000" y2="301.355000"/>
+</annot>
+<annot page="9" index="7" type="link">
+  <rect x1="724.123000" y1="279.035000" x2="735.223000" y2="301.355000"/>
+</annot>
+<annot page="9" index="8" type="link">
+  <rect x1="735.223000" y1="279.035000" x2="741.883000" y2="301.355000"/>
+</annot>
+<annot page="9" index="9" type="link">
+  <rect x1="741.883000" y1="279.035000" x2="775.123000" y2="301.355000"/>
+</annot>
+<annot page="9" index="10" type="link">
+  <rect x1="296.863000" y1="186.035000" x2="333.463000" y2="208.355000"/>
+</annot>
+<annot page="9" index="11" type="link">
+  <rect x1="333.463000" y1="186.035000" x2="401.203000" y2="208.355000"/>
+</annot>
+<annot page="9" index="12" type="link">
+  <rect x1="401.203000" y1="186.035000" x2="480.043000" y2="208.355000"/>
+</annot>
+<annot page="9" index="13" type="link">
+  <rect x1="296.863000" y1="93.035400" x2="763.363000" y2="115.355000"/>
+</annot>
+<annot page="10" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>bc7d9ec7-a6e8-438d-9352-bdf50671b69d</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>It seems that since day one, people have wanted to extract content from PDF files.  Given that it was designed to be a presentation format, any information as to reading order of the text strings found in the file, what purpose some text supports like being a heading at some level or a footnote or …  was just not available.  It is possible to guess at that kind of structural information but it is simpler if it is supplied in some form.So, structured PDF was invented quite a few years ago and a particular form of that called Tagged PDF was also invented.  These add tagging information, optionally, to the PDF file to assist software that wants extract the content with more structural properties.  The structure is also very essential for producing PDFs that are accessible (like for blind people to have them read aloud).The tough part is getting those who create PDF generation software to include this structural information.  Sometimes they don’t even have it.There are a lot of structured PDF file in existence because of the accessibility requirements of our governments, and because Adobe’s software includes it whenever possible.</text>
+</annot>
+<annot page="11" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>a40723bb-fd0d-4be7-9658-7185745044e7</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>This part excites me because I can see real value for open data.PDFs can contain attachments much like e-mail messages can.  This is in the ISO 32000-1 specification.The attachments also can be compressed using the same compression technology used by ZIP and PNG (Flate).  This keeps the overall files relatively small.I think it is cool to attach a XLS or CSV file for each chart or other rendering that uses data.  One can add an annotation that can be clicked upon to retrieve these attachments.  This is fully supported by the free Adobe Reader.I have hyperlinked to a great example I made by copying some web pages produced by the US Bureau of Labor Statistics.  Take a look!</text>
+</annot>
+<annot page="11" index="1" type="link">
+  <rect x1="54.283000" y1="281.435000" x2="705.883000" y2="303.755000"/>
+</annot>
+<annot page="12" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>a2cfa9e5-ca2c-48cc-a842-ffc34efb4163</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>Given that PDFs can become an envelope for attachments, and given that data sets don’t really stand on their own, I think a great idea is to use the enveloping PDF file to define and document all the essential things that must known about the data in order to properly process it.  So one can get the necessary documentation, any schemas, and the data itself in one packaged bundle. Very cool!  This works especially well for XML data since it usually compresses significantly.I have also created an example of this use which you should look at. </text>
+</annot>
+<annot page="12" index="1" type="link">
+  <rect x1="206.383000" y1="93.035400" x2="239.743000" y2="115.355000"/>
+</annot>
+<annot page="12" index="2" type="link">
+  <rect x1="239.743000" y1="93.035400" x2="849.223000" y2="115.355000"/>
+</annot>
+<annot page="13" index="0" type="link">
+  <rect x1="296.263000" y1="434.855000" x2="709.483000" y2="452.795000"/>
+</annot>
+<annot page="13" index="1" type="link">
+  <rect x1="172.063000" y1="407.735000" x2="723.283000" y2="425.675000"/>
+</annot>
+<annot page="13" index="2" type="link">
+  <rect x1="278.683000" y1="299.075000" x2="792.943000" y2="317.015000"/>
+</annot>
+<annot page="13" index="3" type="link">
+  <rect x1="186.463000" y1="240.995000" x2="474.043000" y2="263.315000"/>
+</annot>
+<annot page="13" index="4" type="link">
+  <rect x1="54.283000" y1="183.755000" x2="80.923000" y2="201.695000"/>
+</annot>
+<annot page="13" index="5" type="link">
+  <rect x1="80.923000" y1="183.755000" x2="672.103000" y2="201.695000"/>
+</annot>
+<annot page="13" index="6" type="link">
+  <rect x1="672.103000" y1="183.755000" x2="882.823000" y2="201.695000"/>
+</annot>
+<annot page="14" index="0" type="text">
+  <rect x1="1.000020" y1="521.000000" x2="19.000000" y2="539.000000"/>
+  <name>c1843d36-ebec-45a5-8d29-7588ae3b70ce</name>
+  <color r="65535" g="65535" b="0"/>
+  <label>Presenter</label>
+  <subject>Presentation Notes</subject>
+  </markup>
+  <text>Well, I could go on for hours telling you interesting things about PDF (and I have done that in the past).Hope you learned something valuable from this.Jim King</text>
+</annot>

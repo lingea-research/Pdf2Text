@@ -1,0 +1,15 @@
+arabic_reshaper==3.0.0
+brnolm==0.3.0
+imageio==2.33.1
+lmdb==1.4.1
+lxml==5.1.0
+matplotlib==3.8.2
+numba==0.58.1
+numpy==1.23.5
+opencv_python==4.9.0.80
+python_Levenshtein==0.23.0
+safe_gpu==1.5.1
+scikit_learn==1.3.2
+scipy==1.10.1
+Shapely==2.0.2
+skimage==0.0
